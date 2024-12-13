@@ -53,7 +53,7 @@ Aplicação web personalizada que exibe os gráficos e dados integrados.
 **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/estacao-meteorologica-inteligente.git
+git clone https://github.com/Joao-Inacio/Projeto-Final-IoT
 cd estacao-meteorologica-inteligente
 ```
 
