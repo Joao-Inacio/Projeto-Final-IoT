@@ -13,6 +13,7 @@ A Estação Meteorológica Inteligente foi projetada para simular a coleta e an�
     - Wokwi.com: Plataforma para simulação do hardware, incluindo o ESP32 e os sensores.
     Módulo DHT22: Para medir temperatura e umidade.
     LDR (Light Dependent Resistor): Para medir luminosidade.
+    Link: [Wokwi](https://wokwi.com/projects/416710756203174913) 
 - **Conexão e Armazenamento**
     - Protocolo MQTT: Para envio dos dados coletados.
     - ThingSpeak: Para armazenar, exibir gráficos em tempo real e disponibilizar uma API para integração.
